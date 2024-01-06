@@ -1,5 +1,5 @@
 # CoinStudy
-###### <mark>코테 스터디(c++ )</mark>
+<mark>코테 스터디(c++ )</mark>
 ***
 ### [1주차]
 
