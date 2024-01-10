@@ -1,4 +1,6 @@
-### CoinStudy
+# :books: CoinStudy
+### Co(ding)in(terview)Study
+코딩테스트를 대비하기 위해 매주 2문제씩 푸는 스터디
 
 # :exclamation: 파일 작성 규칙
 ### ※ 업로드하는 파일이름
