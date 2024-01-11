@@ -4,20 +4,15 @@
 
 using namespace std;
 
-string solution(vector<string> participant, vector<string> completion) {
+bool solution(vector<string> phone_book) {
     
-    string answer = "";
+    sort(phone_book.begin(), phone_book.end());
     
-    sort(participant.begin(), participant.end());
-    sort(completion.begin(), completion.end());
-    
-    
-    for(int i = 0; i < completion.size(); i++)
+    for(int i = 0; i < phone_book.size()-1; i++)
     {
-       if(participant[i] != completion[i])
-            return participant[i];
+        if(phone_book[i] == phone_book[i+1].substr(0, phone_book[i].size()))
+            return false;
     }
     
-    return participant.back();
-    
+    return true;
 }
