@@ -14,6 +14,9 @@ n주차 m번
 ex) 1주차 1번
 
 # :page_with_curl: 문제
+### 문제 출처
+https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+
 ### [1주차]
 화: [해시_완주하지 못한 선수] (https://school.programmers.co.kr/learn/courses/30/lessons/42576) 
 
