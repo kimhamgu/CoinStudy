@@ -21,3 +21,8 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 화: [해시_완주하지 못한 선수] (https://school.programmers.co.kr/learn/courses/30/lessons/42576) 
 
 수: [해시_전화번호 목록] (https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
+### [2주차]
+화: [해시_폰켓몬] https://school.programmers.co.kr/learn/courses/30/lessons/1845
+
+수: [해시_베스트앨범] https://school.programmers.co.kr/learn/courses/30/lessons/42579
