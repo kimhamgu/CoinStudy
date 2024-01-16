@@ -28,6 +28,5 @@ bool solution(vector<string> phone_book)
                     }
                 }
     }
-
     return answer;
 }
