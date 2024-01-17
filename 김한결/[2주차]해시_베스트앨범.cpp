@@ -31,12 +31,12 @@ vector<int> solution(vector<string> genres, vector<int> plays)
 
         for (int j = 0; j < 2; j++)
         {
-            int play = 0, index = -1;
+            int max = 0, index = -1;
             for (auto ml : musicList[genre])
             {
-                if (play < ml.second)
+                if (max < ml.second)
                 {
-                    play = ml.second;
+                    max = ml.second;
                     index = ml.first;
                 }
             }
