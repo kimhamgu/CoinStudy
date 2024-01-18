@@ -26,3 +26,8 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 화: [해시_폰켓몬] https://school.programmers.co.kr/learn/courses/30/lessons/1845
 
 수: [해시_베스트앨범] https://school.programmers.co.kr/learn/courses/30/lessons/42579
+
+### [3주차]
+화: [해시_의상] https://school.programmers.co.kr/learn/courses/30/lessons/42578
+
+수: [정렬_K번째수] https://school.programmers.co.kr/learn/courses/30/lessons/42748
