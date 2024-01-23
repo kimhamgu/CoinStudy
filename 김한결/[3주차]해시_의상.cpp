@@ -12,7 +12,7 @@ int solution(vector<vector<string>> clothes)
     // 옷 종류별로 구별 
     for (auto clothe : clothes)
     {
-        style[clothe[1]]++; // 두 번째 요소를 키로 
+        style[clothe[1]]++; // 두 번째 요소가 키
     }
 
     for (auto cases : style)
