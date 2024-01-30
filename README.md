@@ -33,6 +33,6 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 수: [정렬_K번째수] https://school.programmers.co.kr/learn/courses/30/lessons/42748
 
 ### [4주차]
-화: [가장 큰 수] https://school.programmers.co.kr/learn/courses/30/lessons/42746
+화: [정렬_가장큰수] https://school.programmers.co.kr/learn/courses/30/lessons/42746
 
-수: [H-Index] https://school.programmers.co.kr/learn/courses/30/lessons/42747
+수: [정렬_H-Index] https://school.programmers.co.kr/learn/courses/30/lessons/42747
